@@ -1,0 +1,21 @@
+/* .main-container {
+  width: 100%;
+  margin: 0 auto;
+} */
+
+.section-one {
+  background-image: url("img/calm-bg.jpg");
+  background-color: #3c368c;
+  width: 80%;
+  margin: 0 auto;
+  background-position: cover;
+}
+
+header {
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3em;
+  text-align: left;
+}
